@@ -7,3 +7,5 @@ asdasdasdasd
 test1 파일 내용 수정..
 
 branch copy1 생성 후 수정
+
+test2 파일 필요없어
